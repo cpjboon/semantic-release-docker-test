@@ -2,6 +2,19 @@
 
 
 
+## v0.7.2 (2024-05-22)
+
+### Fix
+
+* fix: added some readme ([`631fe8c`](https://github.com/cpjboon/semantic-release-docker-test/commit/631fe8c2241fd8c94af72453aa73d7a85c91e148))
+
+### Unknown
+
+* Merge pull request #16 from cpjboon/semantic_release
+
+fix: added some readme ([`40f509d`](https://github.com/cpjboon/semantic-release-docker-test/commit/40f509db20d2d4b8737cc6075adbbd138b57a9fd))
+
+
 ## v0.7.1 (2024-05-22)
 
 ### Fix
