@@ -5,7 +5,7 @@ on:
     branches-ignore:
       - main
 env:
-  IMAGE_TAG: development
+  IMAGE_TAG: devel
 
 jobs:
   release:
@@ -32,6 +32,6 @@ jobs:
     - name: Build and push
       uses: docker/build-push-action@v5
       with:
-        tags: cpjboon/nginx:development
+        tags: cpjboon/nginx:${{ env.IMAGE_TAG }}
         push: true
       
