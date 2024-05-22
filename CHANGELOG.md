@@ -2,6 +2,19 @@
 
 
 
+## v0.5.0 (2024-05-22)
+
+### Feature
+
+* feat: change tags ([`f64bdb2`](https://github.com/cpjboon/semantic-release-docker-test/commit/f64bdb22fe903616f65051a06e67c46be2fafa99))
+
+### Unknown
+
+* Merge pull request #6 from cpjboon/semantic_release
+
+feat: change tags ([`ba5411b`](https://github.com/cpjboon/semantic-release-docker-test/commit/ba5411b388254277399defcc92016c1c9b7b461e))
+
+
 ## v0.4.0 (2024-05-22)
 
 ### Feature
