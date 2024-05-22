@@ -16,6 +16,11 @@ jobs:
       contents: write
 
     steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+
     - name: Python Semantic Release
       uses: python-semantic-release/python-semantic-release@master
       with:
