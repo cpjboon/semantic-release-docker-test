@@ -2,7 +2,20 @@
 
 
 
+## v0.6.0 (2024-05-22)
+
+### Unknown
+
+* Merge pull request #8 from cpjboon/semantic_release
+
+feat: only build on tags ([`f980796`](https://github.com/cpjboon/semantic-release-docker-test/commit/f98079653cdb7fe409870a8453f42c32c42a507f))
+
+
 ## v0.5.1 (2024-05-22)
+
+### Feature
+
+* feat: only build on tags ([`f8206b1`](https://github.com/cpjboon/semantic-release-docker-test/commit/f8206b1d8b517fa4e7b1ca4851dfdbd44b634c63))
 
 ### Fix
 
