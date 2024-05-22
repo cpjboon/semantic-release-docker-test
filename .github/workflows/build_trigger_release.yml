@@ -2,6 +2,7 @@ name: Build Image and trigger release
 
 on:
   push:
+    branches:
       - main
 env:
   IMAGE_TAG: production
