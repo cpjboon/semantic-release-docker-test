@@ -1,9 +1,11 @@
-name: Semantic Release
+name: Build Test Image not on main branch
 
 on:
   push:
-    branches:
+    branches-ignore:
       - main
+env:
+  IMAGE_TAG: development
 
 jobs:
   release:
@@ -14,11 +16,9 @@ jobs:
       contents: write
 
     steps:
+    - name: Print Image Version
+      run: |
+        echo "This is image version: $IMAGE_TAG"
     - uses: actions/checkout@v3
       with:
         fetch-depth: 0
-
-    - name: Python Semantic Release
-      uses: python-semantic-release/python-semantic-release@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
