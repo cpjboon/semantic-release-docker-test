@@ -2,6 +2,25 @@
 
 
 
+## v0.7.0 (2024-05-22)
+
+### Feature
+
+* feat: forgot repo ([`a9f5788`](https://github.com/cpjboon/semantic-release-docker-test/commit/a9f57882ec3c8b476ee6bec8a84754ec714043d4))
+
+* feat: change workflows again ([`a0ebd15`](https://github.com/cpjboon/semantic-release-docker-test/commit/a0ebd15fcc91f22a91ae6ae6b4b153e5f89b7a09))
+
+### Unknown
+
+* Merge pull request #10 from cpjboon/semantic_release
+
+feat: forgot repo ([`1a85ca7`](https://github.com/cpjboon/semantic-release-docker-test/commit/1a85ca7f2207cd8b08df1a68c4e27133cac77a2e))
+
+* Merge pull request #9 from cpjboon/semantic_release
+
+feat: change workflows again ([`114c994`](https://github.com/cpjboon/semantic-release-docker-test/commit/114c99445e140efac2cb406d8e62c8528a063096))
+
+
 ## v0.6.0 (2024-05-22)
 
 ### Unknown
