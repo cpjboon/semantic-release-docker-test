@@ -5,7 +5,7 @@ on:
     branches:
       - main
     tags:
-      - '*'
+      - 'v*'
 env:
   IMAGE_TAG: production
 
