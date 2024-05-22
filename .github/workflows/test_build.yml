@@ -1,4 +1,4 @@
-name: Build Test Image not on main branch
+name: Build Test Image on test branches
 
 on:
   push:
