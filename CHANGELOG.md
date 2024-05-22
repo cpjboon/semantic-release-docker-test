@@ -2,6 +2,43 @@
 
 
 
+## v0.7.1 (2024-05-22)
+
+### Fix
+
+* fix: change secret ([`bff204d`](https://github.com/cpjboon/semantic-release-docker-test/commit/bff204d78424a64e3f8f1857b54f6bf566f61846))
+
+* fix: change github_token into token ([`e21142a`](https://github.com/cpjboon/semantic-release-docker-test/commit/e21142add5a029d3dc730f4cb5541ad49e31b20c))
+
+* fix: use my pat ([`ee9173f`](https://github.com/cpjboon/semantic-release-docker-test/commit/ee9173ff4df29c612f29be5ce78c3774e9cd83c9))
+
+* fix: indentation ([`85d1679`](https://github.com/cpjboon/semantic-release-docker-test/commit/85d16798b7f316ccd070805d2c9df983b3508a07))
+
+* fix: change persistent credentials ([`487d584`](https://github.com/cpjboon/semantic-release-docker-test/commit/487d584fc15406962fc31ffdd8b4a8bed0852f26))
+
+### Unknown
+
+* Merge pull request #15 from cpjboon/semantic_release
+
+fix: change secret ([`a8fc5b8`](https://github.com/cpjboon/semantic-release-docker-test/commit/a8fc5b8a984e037c33dab031b1bf275d3ac2ae84))
+
+* Merge pull request #14 from cpjboon/semantic_release
+
+fix: change github_token into token ([`07ad111`](https://github.com/cpjboon/semantic-release-docker-test/commit/07ad11198ae331fd765aadee419977dbdec79a51))
+
+* Merge pull request #13 from cpjboon/semantic_release
+
+fix: use my pat ([`b968f4a`](https://github.com/cpjboon/semantic-release-docker-test/commit/b968f4aa08eb65ab4a38d6bb028d5da46727c7f0))
+
+* Merge pull request #12 from cpjboon/semantic_release
+
+fix: indentation ([`575484e`](https://github.com/cpjboon/semantic-release-docker-test/commit/575484e2d8052c1f6295967c357858b63c836e12))
+
+* Merge pull request #11 from cpjboon/semantic_release
+
+fix: change persistent credentials ([`7b3373d`](https://github.com/cpjboon/semantic-release-docker-test/commit/7b3373d0bcfe3510bc58895dcd5879ecdfd76e24))
+
+
 ## v0.7.0 (2024-05-22)
 
 ### Feature
