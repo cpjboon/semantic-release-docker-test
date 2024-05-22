@@ -2,6 +2,19 @@
 
 
 
+## v0.4.0 (2024-05-22)
+
+### Feature
+
+* feat: add build workflow when semantic release tags main ([`63ae3b4`](https://github.com/cpjboon/semantic-release-docker-test/commit/63ae3b4230611907173bd19dd81d00bda9f5c5fd))
+
+### Unknown
+
+* Merge pull request #5 from cpjboon/semantic_release
+
+feat: add build workflow when semantic release tags main ([`08b3762`](https://github.com/cpjboon/semantic-release-docker-test/commit/08b3762bb78435a62a18672479ee47fcbf0fb610))
+
+
 ## v0.3.0 (2024-05-22)
 
 ### Feature
