@@ -2,11 +2,10 @@ name: Build Image
 
 on:
   push:
-    branches:
-      - main
 
 env:
-  IMAGE_TAG: ${{ github.run_attempt }}
+  IMAGE_TAG: v1.${{ github.run_attempt }}
+  USER: ${{ github.event.pull_request.user.login }}
 
 jobs:
   release:
@@ -19,7 +18,7 @@ jobs:
     steps:
     - name: Print Image Version
       run: |
-        echo "This is image version: $IMAGE_TAG"
+        echo "This is image version: $IMAGE_TAG, USER: $USER"
     - uses: actions/checkout@v3
       with:
         fetch-depth: 0
