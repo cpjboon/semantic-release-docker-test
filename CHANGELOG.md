@@ -2,6 +2,19 @@
 
 
 
+## v0.5.1 (2024-05-22)
+
+### Fix
+
+* fix: new test ([`92705d6`](https://github.com/cpjboon/semantic-release-docker-test/commit/92705d62fb92b68a821913018045df034eff746a))
+
+### Unknown
+
+* Merge pull request #7 from cpjboon/semantic_release
+
+fix: new test ([`330b386`](https://github.com/cpjboon/semantic-release-docker-test/commit/330b386742563d0d46385c875f0283bf590100ae))
+
+
 ## v0.5.0 (2024-05-22)
 
 ### Feature
