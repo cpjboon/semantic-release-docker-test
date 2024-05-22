@@ -1,14 +1,15 @@
 name: Trigger release
 
 on:
-  push:
+  pull_request:
+    types:
+      - closed
     branches:
       - main
-env:
-  IMAGE_TAG: production
 
 jobs:
   build-image-release:
+    if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
     concurrency: release
     permissions:
