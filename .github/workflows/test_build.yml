@@ -8,7 +8,7 @@ env:
   IMAGE_TAG: devel
 
 jobs:
-  test:
+  build-image:
     runs-on: ubuntu-latest
     concurrency: release
     permissions:
