@@ -2,6 +2,19 @@
 
 
 
+## v0.2.0 (2024-05-22)
+
+### Feature
+
+* feat: add build and Dockerfile ([`4397f24`](https://github.com/cpjboon/semantic-release-docker-test/commit/4397f24088847de81459200d61552ae8abcdfc53))
+
+### Unknown
+
+* Merge pull request #2 from cpjboon/semantic_release
+
+feat: add build and Dockerfile ([`7d1943e`](https://github.com/cpjboon/semantic-release-docker-test/commit/7d1943e66437b635c89c0c43086252aafbd68934))
+
+
 ## v0.1.0 (2024-05-22)
 
 ### Feature
