@@ -2,6 +2,23 @@
 
 
 
+## v0.7.3 (2024-05-22)
+
+### Fix
+
+* fix: fix typo ([`b03376c`](https://github.com/cpjboon/semantic-release-docker-test/commit/b03376c19015e7cb7584a4b5a6fbeb9b4b69c6ee))
+
+* fix: execute job when merge request is closed ([`b583932`](https://github.com/cpjboon/semantic-release-docker-test/commit/b5839329fd7846597b85e6ae39d47466ceecc5b6))
+
+* fix: change on pull request ([`cb3029f`](https://github.com/cpjboon/semantic-release-docker-test/commit/cb3029f60df597301630479744b09c15857c9c77))
+
+### Unknown
+
+* Merge pull request #17 from cpjboon/semantic_release
+
+fix: change on pull request ([`62d92df`](https://github.com/cpjboon/semantic-release-docker-test/commit/62d92dfb184a83872787ef5b3eaf3f5d18c5f9c7))
+
+
 ## v0.7.2 (2024-05-22)
 
 ### Fix
