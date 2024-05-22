@@ -1,4 +1,4 @@
-name: Build Image from commited tag
+name: Build Image from commited tag by PAT
 
 on:
   push:
