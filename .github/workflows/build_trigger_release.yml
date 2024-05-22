@@ -21,7 +21,7 @@ jobs:
       with:
         fetch-depth: 0
         persist-credentials: false
-        github_token: ${{ secrets.MYPAT }}
+        token: ${{ secrets.MYPAT }}
 
     - name: Python Semantic Release
       uses: python-semantic-release/python-semantic-release@master
